@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="zkAXW22E6kWiDa5VIobu">
-    <mxGraphModel dx="424" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,8 +12,8 @@
             <mxGeometry x="22" y="-57" width="112" height="52" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="xkvlEjj2k6D8jLxlaUt7-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="44" y="74" width="84" height="80" as="geometry" />
+        <mxCell id="xkvlEjj2k6D8jLxlaUt7-2" value="Pandas Dataframe" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="84" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xkvlEjj2k6D8jLxlaUt7-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xkvlEjj2k6D8jLxlaUt7-4" target="xkvlEjj2k6D8jLxlaUt7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,8 +28,17 @@
             <mxPoint x="260" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xkvlEjj2k6D8jLxlaUt7-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="237" y="74" width="99" height="80" as="geometry" />
+        <mxCell id="xkvlEjj2k6D8jLxlaUt7-5" value="Vectorize Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="231" y="104" width="99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IRRLRNYUq0DgDF-gUkcd-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IRRLRNYUq0DgDF-gUkcd-1" target="IRRLRNYUq0DgDF-gUkcd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRRLRNYUq0DgDF-gUkcd-1" value="Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="221" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRRLRNYUq0DgDF-gUkcd-2" value="Choice DataFrame" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="211" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
